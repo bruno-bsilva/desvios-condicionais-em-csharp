@@ -1,0 +1,7 @@
+E:\PA\desvios-condicionais\03\bin\Debug\03.exe.config
+E:\PA\desvios-condicionais\03\bin\Debug\03.exe
+E:\PA\desvios-condicionais\03\bin\Debug\03.pdb
+E:\PA\desvios-condicionais\03\obj\Debug\03.csproj.SuggestedBindingRedirects.cache
+E:\PA\desvios-condicionais\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+E:\PA\desvios-condicionais\03\obj\Debug\03.exe
+E:\PA\desvios-condicionais\03\obj\Debug\03.pdb
