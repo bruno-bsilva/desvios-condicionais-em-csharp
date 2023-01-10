@@ -1,0 +1,8 @@
+E:\PA\desvios-condicionais\07\bin\Debug\07.exe.config
+E:\PA\desvios-condicionais\07\bin\Debug\07.exe
+E:\PA\desvios-condicionais\07\bin\Debug\07.pdb
+E:\PA\desvios-condicionais\07\obj\Debug\07.csproj.AssemblyReference.cache
+E:\PA\desvios-condicionais\07\obj\Debug\07.csproj.SuggestedBindingRedirects.cache
+E:\PA\desvios-condicionais\07\obj\Debug\07.csproj.CoreCompileInputs.cache
+E:\PA\desvios-condicionais\07\obj\Debug\07.exe
+E:\PA\desvios-condicionais\07\obj\Debug\07.pdb
